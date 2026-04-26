@@ -23,11 +23,10 @@ Splendly is a beautiful, AI-powered personal finance app built with React Native
 ## 📱 Try It Now
 
 > **Scan the QR code below with Expo Go to try Splendly instantly — no install needed!**
-
-<!-- Add your QR screenshot: ![QR Code](./assets/qr-code.png) -->
+<img width="287" height="293" alt="image" src="https://github.com/user-attachments/assets/ab10d1c0-bd30-4c37-a119-fac227085ae5" />
 
 ```
-exp://YOUR_EXPO_LINK_HERE
+exp://10.158.240.205:8081
 ```
 
 **Steps:**
@@ -37,20 +36,15 @@ exp://YOUR_EXPO_LINK_HERE
 
 > ⚠️ Requires Expo Go **SDK 54**. Download here if needed:
 > [expo.dev/go?sdkVersion=54&platform=android](https://expo.dev/go?sdkVersion=54&platform=android&device=true)
+![Uploading image.png…]()
 
 ---
 
 ## 📸 Screenshots
 
-<div align="center">
-<img src="./assets/screenshots/home.png" width="200" alt="Home" />
-&nbsp;
-<img src="./assets/screenshots/analytics.png" width="200" alt="Analytics" />
-&nbsp;
-<img src="./assets/screenshots/budget.png" width="200" alt="Budget" />
-</div>
-
-> Replace with your actual screenshots from the `assets/screenshots/` folder.
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/99c41b32-2a07-499f-a218-3c7f03d501c3" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e8f821b-9e8c-46cf-a7d7-8e05c05bba27" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/be595c37-4251-46d4-aefd-594cca753fae" />
 
 ---
 
@@ -209,11 +203,10 @@ npx expo run:android --variant release
 - [x] Budget planner with real-time alerts
 - [x] Analytics with bar charts
 - [x] Dark / Light mode
-- [x] Multi-currency support
+- [x] Export to CSV / PDF
 - [ ] Google Sign-In
 - [ ] Phone OTP Login
 - [ ] AI insights (Claude API)
-- [ ] Export to CSV / PDF
 - [ ] Receipt photo scanning
 - [ ] Voice input ("Spent ₹250 on lunch")
 - [ ] Play Store release 🚀
