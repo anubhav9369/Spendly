@@ -42,11 +42,11 @@ exp://10.158.240.205:8081
 ## 📸 Screenshots
 
 <div align="center">
-<img src="./assets/screenshots/home.png" width="200" alt="Home" />
+<img src="./assets/Home.jpeg" width="200" alt="Home" />
 &nbsp;
-<img src="./assets/screenshots/analytics.png" width="200" alt="Analytics" />
+<img src="./assets/Budget.jpeg" width="200" alt="Budget" />
 &nbsp;
-<img src="./assets/screenshots/budget.png" width="200" alt="Budget" />
+<img src="./assets/Profile.jpeg" width="200" alt="Profile" />
 </div>
 ---
 
