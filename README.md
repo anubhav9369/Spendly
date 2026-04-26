@@ -22,18 +22,14 @@ Splendly is a beautiful, AI-powered personal finance app built with React Native
 
 ## 📱 Try It Now
 
-> **Scan the QR code below with Expo Go to try Splendly instantly — no install needed!**
-<img width="287" height="293" alt="image" src="https://github.com/user-attachments/assets/ab10d1c0-bd30-4c37-a119-fac227085ae5" />
+> **Scan the QR code below to try Splendly instantly --**
+<img width="415" height="424" alt="image" src="https://github.com/user-attachments/assets/e1d699e7-349a-4643-98b0-5d46819ccc2a" />
 
 ```
-exp://10.158.240.205:8081
+Click on Install
 ```
 
-**Steps:**
-1. Install **Expo Go** on Android → [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
-2. Open Expo Go → Tap **Scan QR Code**
-3. Scan above and you're in!
-
+## If going to try locally using Expo Go
 > ⚠️ Requires Expo Go **SDK 54**. Download here if needed:
 > [expo.dev/go?sdkVersion=54&platform=android](https://expo.dev/go?sdkVersion=54&platform=android&device=true)
 
