@@ -36,16 +36,18 @@ exp://10.158.240.205:8081
 
 > ⚠️ Requires Expo Go **SDK 54**. Download here if needed:
 > [expo.dev/go?sdkVersion=54&platform=android](https://expo.dev/go?sdkVersion=54&platform=android&device=true)
-![Uploading image.png…]()
 
 ---
 
 ## 📸 Screenshots
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/99c41b32-2a07-499f-a218-3c7f03d501c3" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e8f821b-9e8c-46cf-a7d7-8e05c05bba27" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/be595c37-4251-46d4-aefd-594cca753fae" />
-
+<div align="center">
+<img src="./assets/screenshots/home.png" width="200" alt="Home" />
+&nbsp;
+<img src="./assets/screenshots/analytics.png" width="200" alt="Analytics" />
+&nbsp;
+<img src="./assets/screenshots/budget.png" width="200" alt="Budget" />
+</div>
 ---
 
 ## ✨ Features
