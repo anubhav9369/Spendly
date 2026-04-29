@@ -23,7 +23,8 @@ Splendly is a beautiful, AI-powered personal finance app built with React Native
 ## 📱 Try It Now
 
 > **Scan the QR code below to try Splendly instantly --**
-<img width="415" height="424" alt="image" src="https://github.com/user-attachments/assets/e1d699e7-349a-4643-98b0-5d46819ccc2a" />
+<img width="450" height="458" alt="image" src="https://github.com/user-attachments/assets/f35d054d-1212-455a-84fb-fb708a0e8f73" />
+
 
 ```
 Click on Install
